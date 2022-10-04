@@ -1,6 +1,6 @@
 # Finite-Sum Coupled Compositional Stochastic Optimization: Theory and Applications
 
-This repository contains the code on three tasks: average precision (AP) maximization, p-norm push (PnP) for bipartite ranking, and neighborhood component analysis (NCA) for unsupervised representation learning. Please refer to each folder for detailed instructions.
+This repository contains the code for three tasks: average precision (AP) maximization, p-norm push (PnP) for bipartite ranking, and neighborhood component analysis (NCA) for unsupervised representation learning. Please refer to each folder for detailed instructions.
 
 ## How to cite
 If you find our work useful, please consider citing [our paper](https://proceedings.mlr.press/v162/wang22ak.html)
